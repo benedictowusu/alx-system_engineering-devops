@@ -47,6 +47,6 @@ frontend benedictowusu.tech-https-frontend
         default_backend benedictowusu.tech-backend
 backend benedictowusu.tech-backend
         balance roundrobin
-        server 477755-web-01 3.90.85.106:80 check
-        server 477755-web-02 34.227.93.70:80 check
+        server 477755-web-01 3.84.255.122:80 check
+        server 477755-web-02 3.84.237.47:80 check
 # end of parameters
