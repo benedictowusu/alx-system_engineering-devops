@@ -21,4 +21,4 @@ if __name__ == "__main__":
                 writeFile.writerow([int(userId),
                                    username,
                                    task.get('completed'),
-                                   task.get('title')]) 
+                                   task.get('title')])

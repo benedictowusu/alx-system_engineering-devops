@@ -23,4 +23,4 @@ if __name__ == "__main__":
             json.dump(bj, filejs)
     else:
         print("usage: {} <user_id>".format(argv[0]))
-        exit(1) 
+        exit(1)
