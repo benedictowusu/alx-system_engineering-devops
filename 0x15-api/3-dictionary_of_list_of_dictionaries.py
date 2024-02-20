@@ -20,4 +20,4 @@ if __name__ == "__main__":
               } for t in todos]
         userj[userId] = t
     with open("todo_all_employees.json", 'w') as filejs:
-        json.dump(userj, filejs) 
+        json.dump(userj, filejs)
